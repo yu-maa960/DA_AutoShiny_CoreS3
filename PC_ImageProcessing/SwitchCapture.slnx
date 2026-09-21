@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SwitchCapture/SwitchCapture.vcxproj" Id="45bf9789-fd64-4380-b430-067c105014d2" />
+</Solution>
