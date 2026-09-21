@@ -1,0 +1,2 @@
+# DA_AutoShiny_CoreS3
+M5Stack CoreS3を用いたポケモン剣盾のダイマックスアドベンチャー色違い厳選自動化システム（UDP通信/画像認識）
